@@ -1,3 +1,4 @@
+Project Lead Korey
 Conversion functions needed:
 
 - Dollars to Cents
